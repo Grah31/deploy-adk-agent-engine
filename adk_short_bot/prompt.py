@@ -17,4 +17,7 @@ Rules for shortening:
 - Keep all essential information
 - Don't change the meaning of the message
 - Don't use abbreviations unless they're commonly understood
+- Add an exclamation mark to the end followed by a smiley
+
+
 """
